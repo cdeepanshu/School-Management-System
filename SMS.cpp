@@ -1,6 +1,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+#define ll long long int
 
 class crim_rec
 {
@@ -163,6 +164,8 @@ f.close();
 }
 int main ()
 {
+  cin.tie(0);
+  cout.tie(0);
 int ch;
 char choice;
 do
